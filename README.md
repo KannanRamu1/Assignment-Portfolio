@@ -29,6 +29,19 @@ Here are some of the projects featured in my portfolio:
 - **GitHub Repository:** [Link to Repo](https://github.com/KannanRamu1/Bootstrap-Progject)
 
 ---
+# One-Page Website with Lightbox
+
+This project is a simple one-page website designed to showcase various sections including navigation, a gallery with a functional lightbox (modal image viewer), a contact form, and an embedded video.
+
+## Features
+- **Navigation Bar**: Smooth navigation to different sections of the page.
+- **Home Section**: A welcoming introduction to the website.
+- **Gallery Section**:
+  - Displays thumbnail images.
+  - Includes a functional lightbox for viewing larger versions of the images.
+  - The lightbox includes a close button and automatically adjusts to the viewport.
+- **Contact Form**
+
 
 ## 🚀 Technologies Used
 - HTML5, CSS3, JavaScript
